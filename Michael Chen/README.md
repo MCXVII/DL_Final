@@ -6,4 +6,4 @@ Instructions for use:
 3. Run whichever model's .ipynb you like. This will generate four .png plots and a .pth file containing the best model state. Please ensure that the .csv files are in the same directory as the model's .ipynb.  
   
 The documents folder contains the changelog as well as the project presentation and project paper.  
-The outputs folder contains .csv files, .png plots, and .pth files for your reference.
+The output folder contains .csv files, .png plots, and .pth files for your reference.
