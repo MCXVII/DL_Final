@@ -1,1 +1,2 @@
 
+This folder contains the main jupyter notebook in which most of the models were trained on. The model weights folder includes all of the saved model weights from the notebook. The complex mode folder includes the scripts for models that were run for over 50 epochs. In that folder are three separate python scripts for three distinct models, as well as png files containing the model plots and model weights. Also included in this folder are the log files of model performance over 50 epochs of training. 
